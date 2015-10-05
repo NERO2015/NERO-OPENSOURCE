@@ -1,0 +1,3 @@
+Updating '.':
+U    frmts\mrsid\nmake.opt
+Updated to revision 28330.
